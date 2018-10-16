@@ -1,0 +1,10 @@
+Which component is used to compile, debug and execute java program?
+JDK
+What is the extension of java code files?
+.java
+Which of these classes is not included in java.lang?
+ Array
+Which of the following is not OOPS concept in Java?
+Compilation
+When does method overloading is determined?
+At compile time
